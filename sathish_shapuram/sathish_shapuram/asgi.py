@@ -1,5 +1,5 @@
 """
-ASGI config for Sathish_shapuram project.
+ASGI config for sathish_shapuram project.
 
 It exposes the ASGI callable as a module-level variable named ``application``.
 
@@ -11,6 +11,6 @@ import os
 
 from django.core.asgi import get_asgi_application
 
-os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'Sathish_shapuram.settings')
+os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'sathish_shapuram.settings')
 
 application = get_asgi_application()

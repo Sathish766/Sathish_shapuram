@@ -1,5 +1,5 @@
 """
-URL configuration for Sathish_shapuram project.
+URL configuration for sathish_shapuram project.
 
 The `urlpatterns` list routes URLs to views. For more information please see:
     https://docs.djangoproject.com/en/5.0/topics/http/urls/
